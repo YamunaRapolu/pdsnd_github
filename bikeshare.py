@@ -7,6 +7,7 @@ def main():
     """Main function"""
    
     print("Data analysis will begin shortly.")
+    print("Changes are done")
 
 if __name__=="__main__":
      main()
